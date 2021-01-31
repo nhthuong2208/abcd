@@ -14,7 +14,7 @@ class _CounterState extends State<Counter> {
 
   void change() {
     setState(() {
-      val += 1;
+      val += 23445775;
     });
   }
 
